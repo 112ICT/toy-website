@@ -28,3 +28,5 @@ module cosmosDB 'modules/cosmos-db.bicep' = {
     cosmosDBAccountName: cosmosDBAccountName
   }
 }
+
+// Update
